@@ -1,0 +1,30 @@
+{
+	"name": "oshi-no-ko-theme",
+	"displayName": "Oshi No Ko Theme",
+	"publisher": "Nixalix1239",
+	"version": "1.0.2",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Oshi No Ko Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/oshi-no-ko-theme-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Nixalix/oshi-no-ko-theme"
+	},
+	"__metadata": {
+		"installedTimestamp": 1769084754655,
+		"targetPlatform": "undefined",
+		"size": 62241
+	}
+}
